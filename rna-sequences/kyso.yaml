@@ -1,0 +1,8 @@
+main: multiqc-rna-seq.html
+author: helena@kyso.io
+type: website
+organization: kyso-demos
+team: data-analyses
+title: "Example HTML File"
+description: "MultiQC reports allow us to aggregate results from bioinformatics analyses across many samples into a single report"
+tags: [targets, rna]

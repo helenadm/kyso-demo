@@ -1,0 +1,13 @@
+{
+    "type": "markdown",
+    "main": "index.html",
+    "title": "Salesforce Pipeline Looker Dashboard",
+    "description": "",
+    "organization": "kyso-demos",
+    "channel": "data-analyses",
+    "tags": [],
+    "authors": [
+      "helena@kyso.io"
+    ],
+    "url": "https://dataflix.looker.com/embed/dashboards/16"
+  }
