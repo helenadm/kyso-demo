@@ -1,7 +1,7 @@
 {
-    "type": "markdown",
-    "main": "main.ipynb",
-    "title": "Jupyter Notebook: Graphing Mutation Ratios",
+    "type": "html",
+    "main": "index.html",
+    "title": "And we can embed BI dashboards & data apps..",
     "description": "",
     "organization": "monica",
     "channel": "general",
