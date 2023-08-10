@@ -1,5 +1,5 @@
-organization: kyso-demos
-team: data-analyses
+organization: helena-domo
+channel: general 
 type: website
 main: export/Baseball.html
 title: "Baseball Data Analysis"

@@ -1,5 +1,5 @@
-organization: kyso-demos
-team: data-analyses
+organization: helena-domo
+channel: general 
 title: "A Jupyter Notebook on Kyso"
 main: main.ipynb
 description: "Using plotly to plot out synonymous mutations (Ks Plot) and fractionation biases."

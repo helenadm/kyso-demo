@@ -1,5 +1,5 @@
-organization: kyso-demos
-team: data-analyses
+organization: helena-domo
+channel: general 
 main: hoopDown.html
 title: "NBA Player Clustering"
 description: "Clustering NBA Player Types: A Tutorial on K-Means, Model Based Clustering, and Graphical Networks."

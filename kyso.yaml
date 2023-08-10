@@ -1,14 +1,14 @@
 type: meta
 reports:
   - data-apps
-  # - html-outputs
-  # - jupyter-notebooks
-  # - more-html-outputs
-  # - pdf-reports
-  # - powerpoint-presentations
-  # - markdown-writeups
-  # - nba-player-clustering
-  # - baseball-data-analysis
+  - html-outputs
+  - jupyter-notebooks
+  - more-html-outputs
+  - pdf-reports
+  - powerpoint-presentations
+  - markdown-writeups
+  - nba-player-clustering
+  - baseball-data-analysis
 organization: helena-domo
 channel: general 
 author: helena@kyso.io
