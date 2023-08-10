@@ -1,7 +1,7 @@
 {
     "type": "markdown",
-    "main": "index.html",
-    "title": "Salesforce Pipeline Looker Dashboard",
+    "main": "main.ipynb",
+    "title": "Jupyter Notebook: Graphing Mutation Ratios",
     "description": "",
     "organization": "helena-domo",
     "channel": "general",

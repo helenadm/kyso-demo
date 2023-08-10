@@ -1,0 +1,14 @@
+main: main.ipynb
+title: "Jupyter Notebook: Graphing Mutation Ratios"
+description: >-
+  Using plotly to plot out synonymous mutations (Ks Plot) and fractionation
+  biases.
+organization: helena-domo
+channel: general 
+tags:
+  - plotly
+  - genomics
+  - rna-seq
+preview: preview.png
+authors:
+  - helena@kyso.io
